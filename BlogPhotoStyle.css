@@ -1,0 +1,15 @@
+body {
+    background-color:  skyblue;
+    text-align: center;
+}
+img {
+    height: 350px;
+}
+#img3 {
+    padding-right: 70px;
+}
+p {
+    width: 200px;
+    margin-left: 650px;
+    background-color: white;
+}
